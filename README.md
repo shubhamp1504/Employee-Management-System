@@ -60,8 +60,7 @@ Employee_Management/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Employee_Management.git
-
+git clone https://github.com/shubhamp1504/Employee-Management-System.git
 cd Employee_Management
 ```
 
